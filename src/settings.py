@@ -63,6 +63,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = ["Jesper Kjærgaard Mortensen", "Vinicius Soares Matthiesen", "Jacobo Gonzalez de Frutos", "Kata Bujdoso", "Jesper Thøger Christensen", "Andreas Møgelmose"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["jkjar18@student.aau.dk", "vmatth19@student.aau.dk", "jgonza22@student.aau.dk", "kbujdo22@student.aau.dk", "kbujdo22@student.aau.dk", "anmo@create.aau.dk"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Aalborg Univeristy, Denmark"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.en.aau.dk/"
@@ -116,6 +117,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
