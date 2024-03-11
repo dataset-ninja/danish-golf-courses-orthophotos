@@ -2,7 +2,7 @@
 
 The dataset consists of 1123 images with 17111 labeled objects belonging to 5 different classes including *bunker*, *green*, *fairway*, and other: *tee* and *water*.
 
-Images in the Danish Golf Courses Orthophotos dataset have pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into a semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. All images are labeled (i.e. with annotations). There are no pre-defined <i>train/val/test</i> splits in the dataset. Additionally, images are tagged by 106 ***golf course*** groups. Explore them in the supervisely labeling tool. The dataset was released in 2023 by the Aalborg Univeristy, Denmark.
+Images in the Danish Golf Courses Orthophotos dataset have pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into a semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. All images are labeled (i.e. with annotations). There are no pre-defined <i>train/val/test</i> splits in the dataset. Additionally, images are tagged by 106 ***golf course*** groups. Explore them in the supervisely labeling tool. The dataset was released in 2023 by the <span style="font-weight: 600; color: grey; border-bottom: 1px dashed #d3d3d3;">Aalborg Univeristy, Denmark</span>.
 
 Here is the visualized example grid with animated annotations:
 
