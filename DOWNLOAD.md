@@ -1,6 +1,6 @@
 Dataset **Danish Golf Courses Orthophotos** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI0ODJfRGFuaXNoIEdvbGYgQ291cnNlcyBPcnRob3Bob3Rvcy9kYW5pc2gtZ29sZi1jb3Vyc2VzLW9ydGhvcGhvdG9zLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIm1ORHdvbGtrd2ZwVFZRMWtXWHFaSmtVbWVWVllaWnVOaUdRM1NYbkcvaUU9In0=)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjQ4Ml9EYW5pc2ggR29sZiBDb3Vyc2VzIE9ydGhvcGhvdG9zL2RhbmlzaC1nb2xmLWNvdXJzZXMtb3J0aG9waG90b3MtRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiTjEwSit0V0hSblhySE1DeTMwZ2Erb0xPbzZYK1o5MG1HSkNMZDlMa2d4QT0ifQ==?response-content-disposition=attachment%3B%20filename%3D%22danish-golf-courses-orthophotos-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
